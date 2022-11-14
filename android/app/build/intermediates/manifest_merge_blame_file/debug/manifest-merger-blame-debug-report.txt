@@ -1,0 +1,343 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.openbot"
+4    android:versionName="1.0.0" >
+5
+6    <uses-sdk
+7        android:minSdkVersion="26"
+7-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml
+8        android:targetSdkVersion="30" />
+8-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml
+9
+10    <uses-permission android:name="android.permission.CAMERA" />
+10-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:5:5-65
+10-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:5:22-62
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:6:5-81
+11-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:6:22-78
+12    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+12-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:7:5-79
+12-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:7:22-76
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:8:5-79
+13-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:8:22-76
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:9:5-67
+14-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:9:22-64
+15    <uses-permission android:name="android.permission.BLUETOOTH" />
+15-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:11:5-68
+15-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:11:22-65
+16    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+16-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:12:5-74
+16-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:12:22-71
+17    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+17-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:13:5-76
+17-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:13:22-73
+18    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+18-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:14:5-76
+18-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:14:22-73
+19
+20    <!-- RTSP Video streaming -->
+21    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+21-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:17:5-70
+21-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:17:22-68
+22
+23    <uses-feature
+23-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:19:5-83
+24        android:name="android.hardware.camera"
+24-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:19:19-57
+25        android:required="true" />
+25-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:19:58-81
+26    <uses-feature
+26-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:20:5-93
+27        android:name="android.hardware.camera.autofocus"
+27-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:20:19-67
+28        android:required="true" />
+28-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:20:68-91
+29    <uses-feature
+29-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:21:5-90
+30        android:name="android.hardware.camera.front"
+30-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:21:19-63
+31        android:required="true" />
+31-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:21:64-87
+32    <uses-feature
+32-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:22:5-85
+33        android:name="android.hardware.usb.host"
+33-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:22:19-59
+34        android:required="true" />
+34-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:22:60-83
+35    <uses-feature
+35-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:23:5-98
+36        android:name="android.hardware.sensor.accelerometer"
+36-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:23:19-71
+37        android:required="false" />
+37-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:23:72-96
+38    <uses-feature
+38-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:24:5-94
+39        android:name="android.hardware.sensor.gyroscope"
+39-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:24:19-67
+40        android:required="false" />
+40-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:24:68-92
+41    <uses-feature
+41-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:25:5-90
+42        android:name="android.hardware.sensor.light"
+42-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:25:19-63
+43        android:required="false" />
+43-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:25:64-88
+44
+45    <uses-permission android:name="android.permission.WAKE_LOCK" />
+45-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\robot\.gradle\caches\transforms-3\3d4a248c3c574b2efae554f2e3dbaf6a\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:25:5-68
+45-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\robot\.gradle\caches\transforms-3\3d4a248c3c574b2efae554f2e3dbaf6a\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:25:22-65
+46    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+46-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\robot\.gradle\caches\transforms-3\3d4a248c3c574b2efae554f2e3dbaf6a\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:26:5-110
+46-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\robot\.gradle\caches\transforms-3\3d4a248c3c574b2efae554f2e3dbaf6a\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:26:22-107
+47
+48    <application
+48-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:28:5-95:19
+49        android:name="org.openbot.OpenBotApplication"
+49-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:32:9-43
+50        android:allowBackup="false"
+50-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:29:9-36
+51        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+51-->[androidx.core:core:1.5.0] C:\Users\robot\.gradle\caches\transforms-3\a4ad9bae9f705efe184adb1b78ad10e2\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+52        android:debuggable="true"
+53        android:extractNativeLibs="false"
+54        android:icon="@drawable/openbot_icon"
+54-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:30:9-46
+55        android:label="@string/app_name"
+55-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:31:9-41
+56        android:requestLegacyExternalStorage="true"
+56-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:33:9-52
+57        android:roundIcon="@drawable/openbot_icon"
+57-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:34:9-51
+58        android:supportsRtl="true"
+58-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:35:9-35
+59        android:theme="@style/AppTheme"
+59-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:36:9-40
+60        android:usesCleartextTraffic="true" >
+60-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:37:9-44
+61        <activity
+61-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:38:9-51:20
+62            android:name="org.openbot.main.MainActivity"
+62-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:38:19-52
+63            android:launchMode="singleTop" >
+63-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:39:13-43
+64            <intent-filter>
+64-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:40:13-46:29
+65                <action android:name="android.intent.action.MAIN" />
+65-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:41:17-69
+65-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:41:25-66
+66
+67                <category android:name="android.intent.category.LAUNCHER" />
+67-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:43:17-77
+67-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:43:27-74
+68
+69                <action android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED" />
+69-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:45:17-90
+69-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:45:25-87
+70            </intent-filter>
+71
+72            <meta-data
+72-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:48:13-50:57
+73                android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED"
+73-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:49:17-79
+74                android:resource="@xml/device_filter" />
+74-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:50:17-54
+75        </activity>
+76        <activity
+76-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:52:9-66:20
+77            android:name="org.openbot.original.DefaultActivity"
+77-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:53:13-53
+78            android:label="@string/activity_name"
+78-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:54:13-50
+79            android:noHistory="false" >
+79-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:55:13-38
+80
+81            <!--
+82            <intent-filter>
+83                <action android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED" />
+84            </intent-filter>
+85
+86            <meta-data
+87                android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED"
+88                android:resource="@xml/device_filter" />
+89            -->
+90
+91        </activity>
+92        <activity
+92-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:68:9-76:20
+93            android:name="org.openbot.modelManagement.BackHandlingFilePickerActivity"
+93-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:69:13-75
+94            android:label="@string/app_name"
+94-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:70:13-45
+95            android:theme="@style/FilePickerTheme" >
+95-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:71:13-51
+96            <intent-filter>
+96-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:72:13-75:29
+97                <action android:name="android.intent.action.GET_CONTENT" />
+97-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:73:17-76
+97-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:73:25-73
+98
+99                <category android:name="android.intent.category.DEFAULT" />
+99-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:74:17-76
+99-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:74:27-73
+100            </intent-filter>
+101        </activity>
+102
+103        <service
+103-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:78:9-81:47
+104            android:name="org.openbot.logging.SensorService"
+104-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:79:13-50
+105            android:enabled="true"
+105-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:80:13-35
+106            android:launchMode="singleTask" />
+106-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:81:13-44
+107        <service android:name="net.majorkernelpanic.streaming.rtsp.RtspServer" />
+107-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:83:9-81
+107-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:83:18-79
+108
+109        <provider
+110            android:name="androidx.core.content.FileProvider"
+110-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:86:13-62
+111            android:authorities="org.openbot.provider"
+111-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:87:13-60
+112            android:exported="false"
+112-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:88:13-37
+113            android:grantUriPermissions="true" >
+113-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:89:13-47
+114            <meta-data
+114-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:90:13-92:58
+115                android:name="android.support.FILE_PROVIDER_PATHS"
+115-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:91:17-67
+116                android:resource="@xml/provider_paths" />
+116-->D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:92:17-55
+117        </provider>
+118
+119        <receiver
+119-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\robot\.gradle\caches\transforms-3\3d4a248c3c574b2efae554f2e3dbaf6a\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:29:9-33:20
+120            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+120-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\robot\.gradle\caches\transforms-3\3d4a248c3c574b2efae554f2e3dbaf6a\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:30:13-85
+121            android:enabled="true"
+121-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\robot\.gradle\caches\transforms-3\3d4a248c3c574b2efae554f2e3dbaf6a\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:31:13-35
+122            android:exported="false" >
+122-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\robot\.gradle\caches\transforms-3\3d4a248c3c574b2efae554f2e3dbaf6a\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:32:13-37
+123        </receiver>
+124
+125        <service
+125-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\robot\.gradle\caches\transforms-3\3d4a248c3c574b2efae554f2e3dbaf6a\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:35:9-38:40
+126            android:name="com.google.android.gms.measurement.AppMeasurementService"
+126-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\robot\.gradle\caches\transforms-3\3d4a248c3c574b2efae554f2e3dbaf6a\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:36:13-84
+127            android:enabled="true"
+127-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\robot\.gradle\caches\transforms-3\3d4a248c3c574b2efae554f2e3dbaf6a\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:37:13-35
+128            android:exported="false" />
+128-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\robot\.gradle\caches\transforms-3\3d4a248c3c574b2efae554f2e3dbaf6a\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:38:13-37
+129        <service
+129-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\robot\.gradle\caches\transforms-3\3d4a248c3c574b2efae554f2e3dbaf6a\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:39:9-43:72
+130            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+130-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\robot\.gradle\caches\transforms-3\3d4a248c3c574b2efae554f2e3dbaf6a\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:40:13-87
+131            android:enabled="true"
+131-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\robot\.gradle\caches\transforms-3\3d4a248c3c574b2efae554f2e3dbaf6a\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:41:13-35
+132            android:exported="false"
+132-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\robot\.gradle\caches\transforms-3\3d4a248c3c574b2efae554f2e3dbaf6a\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:42:13-37
+133            android:permission="android.permission.BIND_JOB_SERVICE" />
+133-->[com.google.android.gms:play-services-measurement:18.0.2] C:\Users\robot\.gradle\caches\transforms-3\3d4a248c3c574b2efae554f2e3dbaf6a\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:43:13-69
+134
+135        <activity
+135-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\robot\.gradle\caches\transforms-3\e66d00d26d4cc0de4d82cc5277b851e5\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+136            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+136-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\robot\.gradle\caches\transforms-3\e66d00d26d4cc0de4d82cc5277b851e5\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+137            android:exported="false"
+137-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\robot\.gradle\caches\transforms-3\e66d00d26d4cc0de4d82cc5277b851e5\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+138            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+138-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\robot\.gradle\caches\transforms-3\e66d00d26d4cc0de4d82cc5277b851e5\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+139
+140        <service
+140-->[com.google.firebase:firebase-crashlytics:17.3.1] C:\Users\robot\.gradle\caches\transforms-3\fb47faa8bec46d5c8fbd3ac7a1b70cd2\transformed\jetified-firebase-crashlytics-17.3.1\AndroidManifest.xml:15:9-21:19
+141            android:name="com.google.firebase.components.ComponentDiscoveryService"
+141-->[com.google.firebase:firebase-crashlytics:17.3.1] C:\Users\robot\.gradle\caches\transforms-3\fb47faa8bec46d5c8fbd3ac7a1b70cd2\transformed\jetified-firebase-crashlytics-17.3.1\AndroidManifest.xml:16:13-84
+142            android:directBootAware="true"
+142-->[com.google.firebase:firebase-common:19.5.0] C:\Users\robot\.gradle\caches\transforms-3\a0c30b711f8fe55e2b17f6822dbe09c3\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:35:13-43
+143            android:exported="false" >
+143-->[com.google.firebase:firebase-crashlytics:17.3.1] C:\Users\robot\.gradle\caches\transforms-3\fb47faa8bec46d5c8fbd3ac7a1b70cd2\transformed\jetified-firebase-crashlytics-17.3.1\AndroidManifest.xml:17:13-37
+144            <meta-data
+144-->[com.google.firebase:firebase-crashlytics:17.3.1] C:\Users\robot\.gradle\caches\transforms-3\fb47faa8bec46d5c8fbd3ac7a1b70cd2\transformed\jetified-firebase-crashlytics-17.3.1\AndroidManifest.xml:18:13-20:85
+145                android:name="com.google.firebase.components:com.google.firebase.crashlytics.CrashlyticsRegistrar"
+145-->[com.google.firebase:firebase-crashlytics:17.3.1] C:\Users\robot\.gradle\caches\transforms-3\fb47faa8bec46d5c8fbd3ac7a1b70cd2\transformed\jetified-firebase-crashlytics-17.3.1\AndroidManifest.xml:19:17-115
+146                android:value="com.google.firebase.components.ComponentRegistrar" />
+146-->[com.google.firebase:firebase-crashlytics:17.3.1] C:\Users\robot\.gradle\caches\transforms-3\fb47faa8bec46d5c8fbd3ac7a1b70cd2\transformed\jetified-firebase-crashlytics-17.3.1\AndroidManifest.xml:20:17-82
+147            <meta-data
+147-->[com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\robot\.gradle\caches\transforms-3\2edddcf5ffb52171d0c6c94a0fb79a2e\transformed\jetified-play-services-measurement-api-18.0.2\AndroidManifest.xml:30:13-32:85
+148                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+148-->[com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\robot\.gradle\caches\transforms-3\2edddcf5ffb52171d0c6c94a0fb79a2e\transformed\jetified-play-services-measurement-api-18.0.2\AndroidManifest.xml:31:17-139
+149                android:value="com.google.firebase.components.ComponentRegistrar" />
+149-->[com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\robot\.gradle\caches\transforms-3\2edddcf5ffb52171d0c6c94a0fb79a2e\transformed\jetified-play-services-measurement-api-18.0.2\AndroidManifest.xml:32:17-82
+150            <meta-data
+150-->[com.google.firebase:firebase-installations:16.3.5] C:\Users\robot\.gradle\caches\transforms-3\8909b518464532129d5b59309f8597d5\transformed\jetified-firebase-installations-16.3.5\AndroidManifest.xml:18:13-20:85
+151                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+151-->[com.google.firebase:firebase-installations:16.3.5] C:\Users\robot\.gradle\caches\transforms-3\8909b518464532129d5b59309f8597d5\transformed\jetified-firebase-installations-16.3.5\AndroidManifest.xml:19:17-127
+152                android:value="com.google.firebase.components.ComponentRegistrar" />
+152-->[com.google.firebase:firebase-installations:16.3.5] C:\Users\robot\.gradle\caches\transforms-3\8909b518464532129d5b59309f8597d5\transformed\jetified-firebase-installations-16.3.5\AndroidManifest.xml:20:17-82
+153            <!--
+154                This registrar is not defined in the dynamic-module-support sdk itself to allow non-firebase
+155                clients to use it as well, by defining this registrar in their own core/common library.
+156            -->
+157            <meta-data
+157-->[com.google.firebase:firebase-common:19.5.0] C:\Users\robot\.gradle\caches\transforms-3\a0c30b711f8fe55e2b17f6822dbe09c3\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:43:13-45:85
+158                android:name="com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar"
+158-->[com.google.firebase:firebase-common:19.5.0] C:\Users\robot\.gradle\caches\transforms-3\a0c30b711f8fe55e2b17f6822dbe09c3\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:44:17-121
+159                android:value="com.google.firebase.components.ComponentRegistrar" />
+159-->[com.google.firebase:firebase-common:19.5.0] C:\Users\robot\.gradle\caches\transforms-3\a0c30b711f8fe55e2b17f6822dbe09c3\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:45:17-82
+160        </service>
+161
+162        <provider
+162-->[com.google.firebase:firebase-common:19.5.0] C:\Users\robot\.gradle\caches\transforms-3\a0c30b711f8fe55e2b17f6822dbe09c3\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:26:9-31:39
+163            android:name="com.google.firebase.provider.FirebaseInitProvider"
+163-->[com.google.firebase:firebase-common:19.5.0] C:\Users\robot\.gradle\caches\transforms-3\a0c30b711f8fe55e2b17f6822dbe09c3\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:27:13-77
+164            android:authorities="org.openbot.firebaseinitprovider"
+164-->[com.google.firebase:firebase-common:19.5.0] C:\Users\robot\.gradle\caches\transforms-3\a0c30b711f8fe55e2b17f6822dbe09c3\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:28:13-72
+165            android:directBootAware="true"
+165-->[com.google.firebase:firebase-common:19.5.0] C:\Users\robot\.gradle\caches\transforms-3\a0c30b711f8fe55e2b17f6822dbe09c3\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:29:13-43
+166            android:exported="false"
+166-->[com.google.firebase:firebase-common:19.5.0] C:\Users\robot\.gradle\caches\transforms-3\a0c30b711f8fe55e2b17f6822dbe09c3\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:30:13-37
+167            android:initOrder="100" />
+167-->[com.google.firebase:firebase-common:19.5.0] C:\Users\robot\.gradle\caches\transforms-3\a0c30b711f8fe55e2b17f6822dbe09c3\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:31:13-36
+168
+169        <meta-data
+169-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\robot\.gradle\caches\transforms-3\973807b2c94bed7f0b9dad1b5439bf29\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+170            android:name="com.google.android.gms.version"
+170-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\robot\.gradle\caches\transforms-3\973807b2c94bed7f0b9dad1b5439bf29\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+171            android:value="@integer/google_play_services_version" />
+171-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\robot\.gradle\caches\transforms-3\973807b2c94bed7f0b9dad1b5439bf29\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+172
+173        <service
+173-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\robot\.gradle\caches\transforms-3\6e29248270f6897172b745e9466f9b97\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:29:9-35:19
+174            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+174-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\robot\.gradle\caches\transforms-3\6e29248270f6897172b745e9466f9b97\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:30:13-103
+175            android:exported="false" >
+175-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\robot\.gradle\caches\transforms-3\6e29248270f6897172b745e9466f9b97\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:31:13-37
+176            <meta-data
+176-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\robot\.gradle\caches\transforms-3\6e29248270f6897172b745e9466f9b97\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:32:13-34:39
+177                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+177-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\robot\.gradle\caches\transforms-3\6e29248270f6897172b745e9466f9b97\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:33:17-94
+178                android:value="cct" />
+178-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\robot\.gradle\caches\transforms-3\6e29248270f6897172b745e9466f9b97\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:34:17-36
+179        </service>
+180        <service
+180-->[com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\robot\.gradle\caches\transforms-3\08fd2e19087f38661349803537a5e660\transformed\jetified-transport-runtime-2.2.5\AndroidManifest.xml:26:9-30:19
+181            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+181-->[com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\robot\.gradle\caches\transforms-3\08fd2e19087f38661349803537a5e660\transformed\jetified-transport-runtime-2.2.5\AndroidManifest.xml:27:13-117
+182            android:exported="false"
+182-->[com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\robot\.gradle\caches\transforms-3\08fd2e19087f38661349803537a5e660\transformed\jetified-transport-runtime-2.2.5\AndroidManifest.xml:28:13-37
+183            android:permission="android.permission.BIND_JOB_SERVICE" >
+183-->[com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\robot\.gradle\caches\transforms-3\08fd2e19087f38661349803537a5e660\transformed\jetified-transport-runtime-2.2.5\AndroidManifest.xml:29:13-69
+184        </service>
+185
+186        <receiver
+186-->[com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\robot\.gradle\caches\transforms-3\08fd2e19087f38661349803537a5e660\transformed\jetified-transport-runtime-2.2.5\AndroidManifest.xml:32:9-34:40
+187            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+187-->[com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\robot\.gradle\caches\transforms-3\08fd2e19087f38661349803537a5e660\transformed\jetified-transport-runtime-2.2.5\AndroidManifest.xml:33:13-132
+188            android:exported="false" />
+188-->[com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\robot\.gradle\caches\transforms-3\08fd2e19087f38661349803537a5e660\transformed\jetified-transport-runtime-2.2.5\AndroidManifest.xml:34:13-37
+189    </application>
+190
+191</manifest>
