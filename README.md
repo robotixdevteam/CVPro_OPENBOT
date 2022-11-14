@@ -39,7 +39,7 @@ OpenBot leverages smartphones as brains for low-cost robots. We have designed a 
     ```
 ## Get Android App
 
-- You can download an [APK file](https://github.com/robotixdevteam/robotix_openbot/releases/download/v4.0/OPENBOT-4.0.apk)🤖
+- You can download an [APK file](https://github.com/robotixdevteam/CVPro_OPENBOT/releases/download/1.0.4/CVPro_OPENBOT_V1.0.4.apk)🤖
 
 ## Requirements
 

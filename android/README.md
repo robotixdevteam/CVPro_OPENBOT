@@ -11,14 +11,21 @@ Click on the links below to read about the features of the apps.
 ## Install the apps
 
 You can then open the apk on your phone and [install](https://www.lifewire.com/install-apk-on-android-4177185) it. Note that the apk is only signed with a debug key.
-<!-- 
+ 
 <table style="width:100%;border:none;text-align:center">
   <tr>
-    <td>  <a href="https://app.openbot.org/robot" target="_blank">
-    <img alt="🤖 App" width="50%" src="../docs/images/robot_app_qr_code.png" />
+    <td>  <a href="https://tinyurl.com/cvpro-openbot" target="_blank">
+    <img alt="🤖 App" width="50%" src="../docs/images/cvpro_openbot_qr_code.png" />
   </a>
     </td>
-    <td>
+  </tr>
+  <tr>
+    <td>🤖 App</td>
+  </tr>
+</table>
+
+<!--
+  <td>
   <a href="https://app.openbot.org/controller" target="_blank">
     <img alt="🎮 App" width="50%" src="../docs/images/controller_app_qr_code.png" />
   </a>
@@ -31,7 +38,8 @@ You can then open the apk on your phone and [install](https://www.lifewire.com/i
 </table> -->
 
 
-<!-- Alternatively, you can download the apks from the assets of any [release](https://github.com/intel-isl/OpenBot/releases). If you want the latest app from the master branch, you can also download it from the build artifacts [here](https://github.com/intel-isl/OpenBot/actions?query=workflow%3A%22Java+CI+with+Gradle%22). Note, that it may not be stable. If you would like to make changes to the app later, follow the steps below to compile the app and deploy it on your phone. -->
+Alternatively, you can download the apks from the assets of any [release](https://github.com/robotixdevteam/CVPro_OPENBOT/releases). 
+<!-- If you want the latest app from the master branch, you can also download it from the build artifacts [here](https://github.com/intel-isl/OpenBot/actions?query=workflow%3A%22Java+CI+with+Gradle%22). Note, that it may not be stable. If you would like to make changes to the app later, follow the steps below to compile the app and deploy it on your phone. -->
 
 ## Build the apps
 
