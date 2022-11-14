@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\CVPRO_OPENBOT\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-eu\\values-eu.xml",
+            "outputFile": "D:\\CVPro_Openbot\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-eu\\values-eu.xml",
             "map": [
                 {
                     "source": "C:\\Users\\robot\\.gradle\\caches\\transforms-3\\a4ad9bae9f705efe184adb1b78ad10e2\\transformed\\core-1.5.0\\res\\values-eu\\values-eu.xml",

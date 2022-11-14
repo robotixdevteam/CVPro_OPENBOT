@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\CVPRO_OPENBOT\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rCA\\values-en-rCA.xml",
+            "outputFile": "D:\\CVPro_Openbot\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rCA\\values-en-rCA.xml",
             "map": [
                 {
                     "source": "C:\\Users\\robot\\.gradle\\caches\\transforms-3\\5b66be8342f8f7bd72e40ee4c5cdf75d\\transformed\\preference-1.1.1\\res\\values-en-rCA\\values-en-rCA.xml",

@@ -1,30 +1,30 @@
 [
     {
-        "merged": "D:\\CVPRO_OPENBOT\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout-land\\layout_bottom_sheet.xml",
-        "source": "D:\\CVPRO_OPENBOT\\android\\app\\src\\main\\res\\layout-land\\layout_bottom_sheet.xml"
+        "merged": "D:\\CVPro_Openbot\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout-land\\fragment_object_nav.xml",
+        "source": "D:\\CVPro_Openbot\\android\\app\\src\\main\\res\\layout-land\\fragment_object_nav.xml"
     },
     {
-        "merged": "D:\\CVPRO_OPENBOT\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout-land\\dialog_sensors.xml",
-        "source": "D:\\CVPRO_OPENBOT\\android\\app\\src\\main\\res\\layout-land\\dialog_sensors.xml"
+        "merged": "D:\\CVPro_Openbot\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout-land\\dialog_sensors.xml",
+        "source": "D:\\CVPro_Openbot\\android\\app\\src\\main\\res\\layout-land\\dialog_sensors.xml"
     },
     {
-        "merged": "D:\\CVPRO_OPENBOT\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout-land\\fragment_autopilot.xml",
-        "source": "D:\\CVPRO_OPENBOT\\android\\app\\src\\main\\res\\layout-land\\fragment_autopilot.xml"
+        "merged": "D:\\CVPro_Openbot\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout-land\\fragment_controller_mapping.xml",
+        "source": "D:\\CVPro_Openbot\\android\\app\\src\\main\\res\\layout-land\\fragment_controller_mapping.xml"
     },
     {
-        "merged": "D:\\CVPRO_OPENBOT\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout-land\\fragment_free_roam.xml",
-        "source": "D:\\CVPRO_OPENBOT\\android\\app\\src\\main\\res\\layout-land\\fragment_free_roam.xml"
+        "merged": "D:\\CVPro_Openbot\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout-land\\fragment_logger.xml",
+        "source": "D:\\CVPro_Openbot\\android\\app\\src\\main\\res\\layout-land\\fragment_logger.xml"
     },
     {
-        "merged": "D:\\CVPRO_OPENBOT\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout-land\\fragment_object_nav.xml",
-        "source": "D:\\CVPRO_OPENBOT\\android\\app\\src\\main\\res\\layout-land\\fragment_object_nav.xml"
+        "merged": "D:\\CVPro_Openbot\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout-land\\fragment_autopilot.xml",
+        "source": "D:\\CVPro_Openbot\\android\\app\\src\\main\\res\\layout-land\\fragment_autopilot.xml"
     },
     {
-        "merged": "D:\\CVPRO_OPENBOT\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout-land\\fragment_logger.xml",
-        "source": "D:\\CVPRO_OPENBOT\\android\\app\\src\\main\\res\\layout-land\\fragment_logger.xml"
+        "merged": "D:\\CVPro_Openbot\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout-land\\fragment_free_roam.xml",
+        "source": "D:\\CVPro_Openbot\\android\\app\\src\\main\\res\\layout-land\\fragment_free_roam.xml"
     },
     {
-        "merged": "D:\\CVPRO_OPENBOT\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout-land\\fragment_controller_mapping.xml",
-        "source": "D:\\CVPRO_OPENBOT\\android\\app\\src\\main\\res\\layout-land\\fragment_controller_mapping.xml"
+        "merged": "D:\\CVPro_Openbot\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout-land\\layout_bottom_sheet.xml",
+        "source": "D:\\CVPro_Openbot\\android\\app\\src\\main\\res\\layout-land\\layout_bottom_sheet.xml"
     }
 ]

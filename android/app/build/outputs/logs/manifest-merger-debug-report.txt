@@ -1,19 +1,19 @@
 -- Merging decision tree log ---
 provider#androidx.core.content.FileProvider
-INJECTED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:85:9-93:20
+INJECTED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:85:9-93:20
 	android:grantUriPermissions
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:89:13-47
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:89:13-47
 	android:authorities
-		INJECTED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:87:13-60
+		INJECTED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:87:13-60
 	android:exported
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:88:13-37
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:88:13-37
 	android:name
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:86:13-62
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:86:13-62
 manifest
-ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:2:1-97:12
-INJECTED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:2:1-97:12
-INJECTED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:2:1-97:12
+ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:2:1-97:12
+INJECTED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:2:1-97:12
+INJECTED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:2:1-97:12
 MERGED from [androidx.databinding:viewbinding:7.0.4] C:\Users\robot\.gradle\caches\transforms-3\845fb61a35f4350f631b5cb1c4e19a20\transformed\jetified-viewbinding-7.0.4\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-ui:2.3.5] C:\Users\robot\.gradle\caches\transforms-3\f3a6cccd97c137fab18806826f37a37e\transformed\navigation-ui-2.3.5\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\robot\.gradle\caches\transforms-3\f660f9b878950094cf0a3602d38a0998\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
@@ -108,32 +108,32 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\robot\.gradle\ca
 MERGED from [androidx.annotation:annotation-experimental:1.1.0-rc01] C:\Users\robot\.gradle\caches\transforms-3\7a402f427c3b911ce81bc7486436fa17\transformed\jetified-annotation-experimental-1.1.0-rc01\AndroidManifest.xml:17:1-24:12
 MERGED from [com.github.pedroSG94.rtmp-rtsp-stream-client-java:rtmp:2.0.2] C:\Users\robot\.gradle\caches\transforms-3\e996708aca611ad111cc99d9c52a027e\transformed\jetified-rtmp-2.0.2\AndroidManifest.xml:2:1-11:12
 MERGED from [com.koushikdutta.async:androidasync:3.1.0] C:\Users\robot\.gradle\caches\transforms-3\ec330d6aef1e5e40f19435ec91596905\transformed\jetified-androidasync-3.1.0\AndroidManifest.xml:2:1-16:12
-INJECTED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:2:1-97:12
-INJECTED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:2:1-97:12
+INJECTED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:2:1-97:12
+INJECTED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:2:1-97:12
 	package
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:3:5-26
-		INJECTED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml
-		INJECTED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:3:5-26
+		INJECTED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:2:1-97:12
-		INJECTED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:2:1-97:12
+		INJECTED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.CAMERA
-ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:5:5-65
+ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:5:5-65
 	android:name
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:5:22-62
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:5:22-62
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:6:5-81
+ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:6:5-81
 	android:name
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:6:22-78
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:6:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:7:5-79
+ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:7:5-79
 	android:name
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:7:22-76
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:7:22-76
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:8:5-79
+ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:8:5-79
 MERGED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\robot\.gradle\caches\transforms-3\3d4a248c3c574b2efae554f2e3dbaf6a\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\robot\.gradle\caches\transforms-3\3d4a248c3c574b2efae554f2e3dbaf6a\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] C:\Users\robot\.gradle\caches\transforms-3\6ea2cce6e329e9dbcead47df89a5a387\transformed\jetified-play-services-measurement-impl-18.0.2\AndroidManifest.xml:24:5-79
@@ -151,9 +151,9 @@ MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Us
 MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\robot\.gradle\caches\transforms-3\08fd2e19087f38661349803537a5e660\transformed\jetified-transport-runtime-2.2.5\AndroidManifest.xml:22:5-79
 MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\robot\.gradle\caches\transforms-3\08fd2e19087f38661349803537a5e660\transformed\jetified-transport-runtime-2.2.5\AndroidManifest.xml:22:5-79
 	android:name
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:8:22-76
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:8:22-76
 uses-permission#android.permission.INTERNET
-ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:9:5-67
+ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:9:5-67
 MERGED from [com.koushikdutta.ion:ion:3.1.0] C:\Users\robot\.gradle\caches\transforms-3\4d78f3d41ac83f94aa58c063837e009d\transformed\jetified-ion-3.1.0\AndroidManifest.xml:11:5-67
 MERGED from [com.koushikdutta.ion:ion:3.1.0] C:\Users\robot\.gradle\caches\transforms-3\4d78f3d41ac83f94aa58c063837e009d\transformed\jetified-ion-3.1.0\AndroidManifest.xml:11:5-67
 MERGED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\robot\.gradle\caches\transforms-3\3d4a248c3c574b2efae554f2e3dbaf6a\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:23:5-67
@@ -173,71 +173,71 @@ MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Us
 MERGED from [com.koushikdutta.async:androidasync:3.1.0] C:\Users\robot\.gradle\caches\transforms-3\ec330d6aef1e5e40f19435ec91596905\transformed\jetified-androidasync-3.1.0\AndroidManifest.xml:11:5-67
 MERGED from [com.koushikdutta.async:androidasync:3.1.0] C:\Users\robot\.gradle\caches\transforms-3\ec330d6aef1e5e40f19435ec91596905\transformed\jetified-androidasync-3.1.0\AndroidManifest.xml:11:5-67
 	android:name
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:9:22-64
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:9:22-64
 uses-permission#android.permission.BLUETOOTH
-ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:11:5-68
+ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:11:5-68
 	android:name
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:11:22-65
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:11:22-65
 uses-permission#android.permission.BLUETOOTH_ADMIN
-ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:12:5-74
+ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:12:5-74
 	android:name
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:12:22-71
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:12:22-71
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:13:5-76
+ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:13:5-76
 	android:name
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:13:22-73
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:13:22-73
 uses-permission#android.permission.CHANGE_WIFI_STATE
-ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:14:5-76
+ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:14:5-76
 	android:name
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:14:22-73
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:14:22-73
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:17:5-70
+ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:17:5-70
 	android:name
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:17:22-68
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:17:22-68
 uses-feature#android.hardware.camera
-ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:19:5-83
+ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:19:5-83
 	android:required
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:19:58-81
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:19:58-81
 	android:name
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:19:19-57
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:19:19-57
 uses-feature#android.hardware.camera.autofocus
-ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:20:5-93
+ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:20:5-93
 	android:required
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:20:68-91
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:20:68-91
 	android:name
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:20:19-67
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:20:19-67
 uses-feature#android.hardware.camera.front
-ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:21:5-90
+ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:21:5-90
 	android:required
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:21:64-87
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:21:64-87
 	android:name
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:21:19-63
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:21:19-63
 uses-feature#android.hardware.usb.host
-ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:22:5-85
+ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:22:5-85
 	android:required
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:22:60-83
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:22:60-83
 	android:name
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:22:19-59
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:22:19-59
 uses-feature#android.hardware.sensor.accelerometer
-ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:23:5-98
+ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:23:5-98
 	android:required
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:23:72-96
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:23:72-96
 	android:name
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:23:19-71
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:23:19-71
 uses-feature#android.hardware.sensor.gyroscope
-ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:24:5-94
+ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:24:5-94
 	android:required
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:24:68-92
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:24:68-92
 	android:name
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:24:19-67
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:24:19-67
 uses-feature#android.hardware.sensor.light
-ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:25:5-90
+ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:25:5-90
 	android:required
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:25:64-88
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:25:64-88
 	android:name
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:25:19-63
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:25:19-63
 application
-ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:28:5-95:19
+ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:28:5-95:19
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\robot\.gradle\caches\transforms-3\f660f9b878950094cf0a3602d38a0998\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\robot\.gradle\caches\transforms-3\f660f9b878950094cf0a3602d38a0998\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
 MERGED from [org.tensorflow:tensorflow-lite:2.5.0] C:\Users\robot\.gradle\caches\transforms-3\abf019f70abb35ec5b02a909d0f9f152\transformed\jetified-tensorflow-lite-2.5.0\AndroidManifest.xml:10:5-20
@@ -305,93 +305,93 @@ MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\
 MERGED from [com.koushikdutta.async:androidasync:3.1.0] C:\Users\robot\.gradle\caches\transforms-3\ec330d6aef1e5e40f19435ec91596905\transformed\jetified-androidasync-3.1.0\AndroidManifest.xml:13:5-14:19
 MERGED from [com.koushikdutta.async:androidasync:3.1.0] C:\Users\robot\.gradle\caches\transforms-3\ec330d6aef1e5e40f19435ec91596905\transformed\jetified-androidasync-3.1.0\AndroidManifest.xml:13:5-14:19
 	android:requestLegacyExternalStorage
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:33:9-52
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:33:9-52
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.5.0] C:\Users\robot\.gradle\caches\transforms-3\a4ad9bae9f705efe184adb1b78ad10e2\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:35:9-35
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:35:9-35
 	android:label
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:31:9-41
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:31:9-41
 	android:roundIcon
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:34:9-51
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:34:9-51
 	android:icon
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:30:9-46
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:30:9-46
 	android:allowBackup
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:29:9-36
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:29:9-36
 	android:theme
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:36:9-40
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:36:9-40
 	android:usesCleartextTraffic
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:37:9-44
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:37:9-44
 	android:name
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:32:9-43
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:32:9-43
 activity#org.openbot.main.MainActivity
-ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:38:9-51:20
+ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:38:9-51:20
 	android:launchMode
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:39:13-43
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:39:13-43
 	android:name
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:38:19-52
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:38:19-52
 intent-filter#action:name:android.hardware.usb.action.USB_DEVICE_ATTACHED+action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:40:13-46:29
+ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:40:13-46:29
 action#android.intent.action.MAIN
-ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:41:17-69
+ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:41:17-69
 	android:name
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:41:25-66
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:41:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:43:17-77
+ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:43:17-77
 	android:name
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:43:27-74
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:43:27-74
 action#android.hardware.usb.action.USB_DEVICE_ATTACHED
-ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:45:17-90
+ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:45:17-90
 	android:name
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:45:25-87
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:45:25-87
 meta-data#android.hardware.usb.action.USB_DEVICE_ATTACHED
-ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:48:13-50:57
+ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:48:13-50:57
 	android:resource
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:50:17-54
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:50:17-54
 	android:name
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:49:17-79
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:49:17-79
 activity#org.openbot.original.DefaultActivity
-ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:52:9-66:20
+ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:52:9-66:20
 	android:label
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:54:13-50
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:54:13-50
 	android:noHistory
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:55:13-38
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:55:13-38
 	android:name
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:53:13-53
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:53:13-53
 activity#org.openbot.modelManagement.BackHandlingFilePickerActivity
-ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:68:9-76:20
+ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:68:9-76:20
 	android:label
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:70:13-45
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:70:13-45
 	android:theme
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:71:13-51
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:71:13-51
 	android:name
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:69:13-75
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:69:13-75
 intent-filter#action:name:android.intent.action.GET_CONTENT+category:name:android.intent.category.DEFAULT
-ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:72:13-75:29
+ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:72:13-75:29
 action#android.intent.action.GET_CONTENT
-ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:73:17-76
+ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:73:17-76
 	android:name
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:73:25-73
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:73:25-73
 category#android.intent.category.DEFAULT
-ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:74:17-76
+ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:74:17-76
 	android:name
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:74:27-73
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:74:27-73
 service#org.openbot.logging.SensorService
-ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:78:9-81:47
+ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:78:9-81:47
 	android:enabled
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:80:13-35
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:80:13-35
 	android:launchMode
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:81:13-44
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:81:13-44
 	android:name
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:79:13-50
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:79:13-50
 service#net.majorkernelpanic.streaming.rtsp.RtspServer
-ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:83:9-81
+ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:83:9-81
 	android:name
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:83:18-79
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:83:18-79
 uses-sdk
-INJECTED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml
-INJECTED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml
 MERGED from [androidx.databinding:viewbinding:7.0.4] C:\Users\robot\.gradle\caches\transforms-3\845fb61a35f4350f631b5cb1c4e19a20\transformed\jetified-viewbinding-7.0.4\AndroidManifest.xml:20:5-44
 MERGED from [androidx.databinding:viewbinding:7.0.4] C:\Users\robot\.gradle\caches\transforms-3\845fb61a35f4350f631b5cb1c4e19a20\transformed\jetified-viewbinding-7.0.4\AndroidManifest.xml:20:5-44
 MERGED from [androidx.navigation:navigation-ui:2.3.5] C:\Users\robot\.gradle\caches\transforms-3\f3a6cccd97c137fab18806826f37a37e\transformed\navigation-ui-2.3.5\AndroidManifest.xml:20:5-22:41
@@ -580,24 +580,24 @@ MERGED from [com.github.pedroSG94.rtmp-rtsp-stream-client-java:rtmp:2.0.2] C:\Us
 MERGED from [com.github.pedroSG94.rtmp-rtsp-stream-client-java:rtmp:2.0.2] C:\Users\robot\.gradle\caches\transforms-3\e996708aca611ad111cc99d9c52a027e\transformed\jetified-rtmp-2.0.2\AndroidManifest.xml:7:5-9:41
 MERGED from [com.koushikdutta.async:androidasync:3.1.0] C:\Users\robot\.gradle\caches\transforms-3\ec330d6aef1e5e40f19435ec91596905\transformed\jetified-androidasync-3.1.0\AndroidManifest.xml:7:5-9:41
 MERGED from [com.koushikdutta.async:androidasync:3.1.0] C:\Users\robot\.gradle\caches\transforms-3\ec330d6aef1e5e40f19435ec91596905\transformed\jetified-androidasync-3.1.0\AndroidManifest.xml:7:5-9:41
-INJECTED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml
-INJECTED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml
-		INJECTED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml
-		MERGED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml
-		MERGED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml
-		INJECTED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml
+		MERGED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml
+		MERGED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:90:13-92:58
+ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:90:13-92:58
 	android:resource
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:92:17-55
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:92:17-55
 	android:name
-		ADDED from D:\CVPRO_OPENBOT\android\app\src\main\AndroidManifest.xml:91:17-67
+		ADDED from D:\CVPro_Openbot\android\app\src\main\AndroidManifest.xml:91:17-67
 uses-permission#android.permission.WAKE_LOCK
 ADDED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\robot\.gradle\caches\transforms-3\3d4a248c3c574b2efae554f2e3dbaf6a\transformed\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:25:5-68
 MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] C:\Users\robot\.gradle\caches\transforms-3\6ea2cce6e329e9dbcead47df89a5a387\transformed\jetified-play-services-measurement-impl-18.0.2\AndroidManifest.xml:25:5-68
