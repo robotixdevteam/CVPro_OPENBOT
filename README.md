@@ -32,10 +32,10 @@ OpenBot leverages smartphones as brains for low-cost robots. We have designed a 
 
 ## Get the source code
 
-- You can download the repo as a [zip file](https://github.com/robotixdevteam/robotix_openbot/archive/refs/heads/main.zip) and extract it into a folder of your choice.
+- You can download the repo as a [zip file](https://github.com/robotixdevteam/CVPro_OPENBOT/archive/refs/heads/main.zip) and extract it into a folder of your choice.
 - You can clone the OpenBot repository from GitHub with the following command:
     ```bash
-    git clone https://github.com/robotixdevteam/robotix_openbot.git
+    git clone https://github.com/robotixdevteam/CVPro_OPENBOT.git
     ```
 ## Get Android App
 
@@ -45,7 +45,7 @@ OpenBot leverages smartphones as brains for low-cost robots. We have designed a 
 
 **Desktop (please check the following information):**
  - OS: [e.g. Windows, Linux]
- - Browser [e.g. chrome, safari]
+ - Browser [e.g. Chrome, Edge, Safari, Firefox]
  
 **Smartphone (please check the following information):**
  - Device: [e.g. Motorola G51, Redmi Note 10 pro]
