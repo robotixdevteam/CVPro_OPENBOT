@@ -46,7 +46,7 @@ Alternatively, you can download the apks from the assets of any [release](https:
 ### Prerequisites
 
 - [Android Studio 3.2 or later](https://developer.android.com/studio/index.html) for building and installing the apks.
-- Android device and Android development environment with minimum API 21.
+- Android device and Android development environment with minimum API 26.
 - Currently, we use API 30 as compile SDK and API 29 as target SDK. It should get installed automatically, but if not you can install the SDK manually. Go to Android Studio -> Preferences -> Appearance & Behaviour -> System Settings -> Android SDK. Make sure API 30 is checked and click apply.
 
 ![Android SDK](../docs/images/android_studio_sdk.jpg)
