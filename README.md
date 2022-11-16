@@ -41,7 +41,7 @@ OpenBot leverages smartphones as brains for low-cost robots. We have designed a 
 
 - You can download an [APK file](https://github.com/robotixdevteam/CVPro_OPENBOT/releases/download/1.0.4/CVPro_OPENBOT_V1.0.4.apk)🤖
 
-
+- You can download by scanning below QRCode.
 
 <!-- <table style="width:100%;border:none;text-align:center">
   <tr>
