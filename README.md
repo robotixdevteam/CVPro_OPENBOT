@@ -43,11 +43,13 @@ OpenBot leverages smartphones as brains for low-cost robots. We have designed a 
 
 - You can download by scanning below QRCode.
 
-<div align = "center" >    
+<div align = "center" >   
+    <p>SCAN ME !</p>
+    <img src="docs/images/down-arrow.gif"/>
     <a href="https://tinyurl.com/cvpro-openbot" target="_blank" >
         <img alt="🤖 App" width="20%" src="docs/images/CVPRO_OpenBot-QRCode.png" />
     </a>
-    <p>CVPro_OPENBOT</p>
+    <p><b>CVPro_OPENBOT</b></p>
 </div>
 <!-- <table style="width:100%;border:none;text-align:center">
   <tr>
