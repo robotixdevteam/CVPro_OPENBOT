@@ -12,10 +12,10 @@ Click on the links below to read about the features of the apps.
 
 You can then open the apk on your phone and [install](https://www.lifewire.com/install-apk-on-android-4177185) it. Note that the apk is only signed with a debug key.
  
-<table style="width:60%;border:none;text-align:center">
+<table style="width:100%;border:none;text-align:center">
   <tr>
     <td>  <a href="https://tinyurl.com/cvpro-openbot" target="_blank">
-    <img alt="🤖 App" width="50%" src="../docs/images/CVPRO_OpenBot-QRCode.svg" />
+    <img alt="🤖 App" width="60%" src="../docs/images/CVPRO_OpenBot-QRCode.svg" />
   </a>
     </td>
   </tr>
