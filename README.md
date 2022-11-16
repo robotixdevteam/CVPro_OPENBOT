@@ -46,7 +46,7 @@ OpenBot leverages smartphones as brains for low-cost robots. We have designed a 
 <div align = "center" >   
     <p><b><i>SCAN ME !</i></b></p>
     <img src="docs/images/down-arrow.gif"/>
-    <table style="width:100%;border:none" >
+    <table style="width:30%;border:none" >
     <tr>
     <td>
     <div>
