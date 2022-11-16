@@ -14,9 +14,10 @@ You can then open the apk on your phone and [install](https://www.lifewire.com/i
  
 <table style="width:100%;border:none;text-align:center">
   <tr>
-    <td>  <a href="https://tinyurl.com/cvpro-openbot" target="_blank">
-    <img alt="🤖 App" width="60%" src="../docs/images/CVPRO_OpenBot-QRCode.svg" />
-  </a>
+    <td>  
+        <a href="https://tinyurl.com/cvpro-openbot" target="_blank">
+          <img alt="🤖 App" width="60%" src="../docs/images/CVPRO_OpenBot-QRCode.svg" />
+        </a>
     </td>
   </tr>
   <tr>
