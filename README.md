@@ -44,7 +44,7 @@ OpenBot leverages smartphones as brains for low-cost robots. We have designed a 
   <table style="width:100%;border:none;text-align:center">
     <tr>
       <td>  <a href="https://tinyurl.com/cvpro-openbot" target="_blank">
-      <img alt="🤖 App" width="60%" src="..robotixdevteam/CVPro_OPENBOT/docs/images/CVPRO_OpenBot-QRCode.svg"/>
+      <img alt="🤖 App" width="60%" src="../robotixdevteam/CVPro_OPENBOT/docs/images/CVPRO_OpenBot-QRCode.svg"/>
           </a>
       </td>
     </tr>
