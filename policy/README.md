@@ -69,7 +69,7 @@ NOTES:
       <b>Web control camera, if (OpenBot Controller view, in browser) </b> 
     </td>
     <td>
-      <b>Data collection </b>
+      <b>Data collection (Result) </b>
     </td>
   </tr>
   <tr>
