@@ -57,6 +57,67 @@ NOTES:
 
 ### Data Collection
 
+#### Important Note: 
+Constraints for data collection, it is recommended to use the Front side camera and data is collected through it. 
+
+<table style="width:100%;border:none;text-align:center">
+  <tr>
+    <td>     
+      Mobile camera, if
+    </td>
+    <td>
+      Web control camera, if (OpenBot Controller view, in browser)  
+    </td>
+    <td>
+      Data collection 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Front is enabled 
+    </td>
+    <td>
+      Rear is enabled 
+    </td>
+    <td>
+      Front side data will be collected 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Rear is enabled 
+    </td>
+    <td>
+      Front is enabled 
+    </td>
+    <td>
+      Rear side data will be collected 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Rear is enabled 
+    </td>
+    <td>
+      Rear is enabled 
+    </td>
+    <td>
+      No data will be collected 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Front is enabled 
+    </td>
+    <td>
+      Front is enabled 
+    </td>
+    <td>
+      No data will be collected 
+    </td>
+  </tr>
+<table>
+
 In order to train an autonomous driving policy, you will first need to collect a dataset. The more data you collect, the better the resulting driving policy. For the experiments in our paper, we collected about 30 minutes worth of data. Note that the network will imitate your driving behaviour. The better and more consistent you drive, the better the network will learn to drive.
 
 1. Connect a computer with same WIFI connection to controlling the phone.
