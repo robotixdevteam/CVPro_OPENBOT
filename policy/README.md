@@ -58,18 +58,18 @@ NOTES:
 ### Data Collection
 
 #### Important Note: 
-Constraints for data collection, it is recommended to use the Front side camera and data is collected through it. 
+  Constraints for data collection, it is recommended to use the **Front side camera** and data is collected through it. 
 
 <table style="width:100%;border:none;text-align:center">
   <tr>
     <td>     
-      Mobile camera, if
+      <b>Mobile camera, if</b>
     </td>
     <td>
-      Web control camera, if (OpenBot Controller view, in browser)  
+      <b>Web control camera, if (OpenBot Controller view, in browser) </b> 
     </td>
     <td>
-      Data collection 
+      <b>Data collection </b>
     </td>
   </tr>
   <tr>
